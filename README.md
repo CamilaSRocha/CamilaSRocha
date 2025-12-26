@@ -10,12 +10,15 @@ Tenho estudado e praticado desenvolvimento web por meio de cursos, projetos pess
 Aqui no meu GitHub você encontrará projetos voltados ao aprendizado e à consolidação dos meus conhecimentos.  
 Estou em busca da minha **primeira oportunidade na área de desenvolvimento**, onde eu possa aprender, crescer e contribuir com o time 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocha-camila)](https://www.linkedin.com/in/rocha-camila) ‾ [![GitHub Badge](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CamilaSRocha?tab=repositories)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocha-camila)](https://www.linkedin.com/in/rocha-camila)
+[![GitHub Badge](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CamilaSRocha?tab=repositories) 
+![GitHub followers](https://img.shields.io/github/followers/CamilaSRocha?label=Seguidores&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/CamilaSRocha?label=Stars&style=flat)
 
 ---
 <br> 
 
-## 🤖 Linguaguens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="center" 
