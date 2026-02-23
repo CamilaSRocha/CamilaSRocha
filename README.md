@@ -2,13 +2,11 @@
 
 **`Desenvolvedora Web | Front-end em formação`**
 
-Olá! Me chamo Camila Rocha e sou formada em **Administração** e **Sistemas para Internet**.  
-Atualmente estou em **transição de carreira para a área de tecnologia**, com foco no **desenvolvimento front-end**.
+Olá! Me chamo Camila Rocha, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da minha **primeira oportunidade para a área de tecnologia**, com foco no **desenvolvimento front-end**.
 
-Tenho estudado e praticado desenvolvimento web por meio de cursos, projetos pessoais e plataformas de ensino online, buscando evoluir constantemente minhas habilidades em programação e boas práticas de código.
+Tenho estudado e praticado desenvolvimento web por meio de cursos, projetos pessoais e plataformas de ensino online, buscando evoluir constantemente minhas habilidades em programação.
 
 Aqui no meu GitHub você encontrará projetos voltados ao aprendizado e à consolidação dos meus conhecimentos.  
-Estou em busca da minha **primeira oportunidade na área de desenvolvimento**, onde eu possa aprender, crescer e contribuir com o time 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rocha-camila)](https://www.linkedin.com/in/rocha-camila)
 [![GitHub Badge](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/CamilaSRocha?tab=repositories) 
